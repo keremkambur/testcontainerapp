@@ -1,0 +1,18 @@
+﻿@page "/counter"
+
+<PageTitle>Zikirle!</PageTitle>
+
+<h1>Haydi simdi Zikirle!</h1>
+
+<p role="status">Mevcut zikir: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Zikirle!</button>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}

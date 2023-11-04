@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testcontainerapp", "testcontainerapp\testcontainerapp.csproj", "{50555DA2-7E34-4C4F-B911-EDCE725612C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testcontainerwasmapp", "testcontainerwasmapp\testcontainerwasmapp.csproj", "{914C330E-E31D-4ADC-BC19-4CDC8B621596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50555DA2-7E34-4C4F-B911-EDCE725612C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50555DA2-7E34-4C4F-B911-EDCE725612C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50555DA2-7E34-4C4F-B911-EDCE725612C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50555DA2-7E34-4C4F-B911-EDCE725612C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914C330E-E31D-4ADC-BC19-4CDC8B621596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914C330E-E31D-4ADC-BC19-4CDC8B621596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914C330E-E31D-4ADC-BC19-4CDC8B621596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914C330E-E31D-4ADC-BC19-4CDC8B621596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
